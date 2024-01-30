@@ -1,2 +1,2 @@
-# hw2-2024
-SI 539 HW 2
+# hw2_simple_css
+Starter code for simple css assignment
