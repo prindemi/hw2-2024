@@ -65,6 +65,10 @@ div{
     color: #C4C4C4;
 }
 
+.blue h2{
+    color: #C4C4C4;
+}
+
 .yellow{
     background-color: #FFFF00;
     text-align: right;
@@ -80,7 +84,7 @@ div{
 }
 
 .green{
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-left: none;
